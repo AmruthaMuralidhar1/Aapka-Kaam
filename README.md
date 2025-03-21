@@ -72,7 +72,7 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/siddhesh-desai/Worker-Connect.git
+   git clone https://github.com/AmruthaMuralidhar1/Aapka-Kaam.git
    ```
 
 2. Install the dependencies:
@@ -91,21 +91,6 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 - Notification System
 - Add Tasks
 - Worker Profile with Ratings
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## 🛣️ Roadmap
-
-- [x] Price Negotiation System
-- [x] Notification System
-- [x] Add Tasks
-- [x] Worker Profile with Ratings
-
-See the [open issues](https://github.com/siddhesh-desai/Worker-Connect/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
